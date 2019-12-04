@@ -1,0 +1,25 @@
+.map {
+  display: block;
+margin:0 auto;
+    height: 500px;
+    width: 80%;
+  }
+
+  .button1 {
+      border: 2px solid;
+      background-color: red;
+      padding: 12px 14px;
+      font-size: 12px;
+      cursor: pointer;
+      display: inline-block;
+      align-items: center;
+    }
+    .button2 {
+      border: 2px solid;
+      background-color: blueviolet;
+      padding: 12px 14px;
+      font-size: 12px;
+      cursor: pointer;
+      display: inline-block;
+      align-items: center;
+    }
