@@ -15,3 +15,6 @@ app.listen(port, () => console.log(`Example app listening on port ${port}!`))
 
 const pathToHtml = path.join (__dirname, "./page/index.html");
 console.log(pathToHtml);
+
+//get value.... pridat skusit v google
+//display block a displey none do stylu...
